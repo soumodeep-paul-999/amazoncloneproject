@@ -388,6 +388,7 @@ nav{
         height: 130px
         white-space: nowrap;
         gap: 10px;
+        margin: 0 5px;
     }
     .m-box{
         background-color: rgb(244, 244, 244);
